@@ -80,6 +80,8 @@ const questions = [
         const result=document.getElementById("quiz-container");
         result.innerHTML=''; 
       renderQuestion(currentQuestionIndex);
+    }
+      else{
       renderResult(); 
     }
   }
