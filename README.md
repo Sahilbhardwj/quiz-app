@@ -1,0 +1,1 @@
+A simple Quiz App built using HTML, CSS, and JavaScript. The app displays questions with multiple-choice options, tracks the user's score, and allows restarting the quiz. This project demonstrates dynamic DOM manipulation, event handling, and basic JavaScript logic.
